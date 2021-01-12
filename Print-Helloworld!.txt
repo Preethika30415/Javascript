@@ -1,0 +1,9 @@
+Live Demo
+<html>
+   <body>
+   <script>
+   document.write("Hello World!");
+   </script>
+        <p>Set the variable to different value and then try...</p>
+   </body>
+</html>
